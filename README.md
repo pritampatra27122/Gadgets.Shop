@@ -1,2 +1,2 @@
 # Gadgets.Shop
-E - Commerce Website for buying Gadgets
+A simple E - Commerce Website using HTML, CSS, JavaScript and Php.
